@@ -10,3 +10,7 @@ We have collected some commonly used functions when studying Anderson localizati
 
 ## Dynamics
 1. (x2) : claculate <x^2>
+
+## Scaling
+1. (scalingexponent) : get the scalingexponent by the system size and IPR data.  
+
