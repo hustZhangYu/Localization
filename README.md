@@ -7,3 +7,6 @@ We have collected some commonly used functions when studying Anderson localizati
 
 ## wavefunction
 1.（Ipr）： calculate the Ipr for a single eigenstate.
+
+## Dynamics
+1. (x2) : claculate $<x^2>$
