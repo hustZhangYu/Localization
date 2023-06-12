@@ -16,3 +16,6 @@ We have collected some commonly used functions when studying Anderson localizati
 ## Scaling
 1. (scalingexponent) : get the scalingexponent by the system size and IPR data.  
 
+## Energy spectrum statisitcs
+1. (Energyratio) :calculate the energy level sacing ratio.
+
