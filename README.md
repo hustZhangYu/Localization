@@ -18,6 +18,7 @@ We have collected some commonly used functions when studying Anderson localizati
 
 ## Energy spectrum statisitcs
 1. (Energyratio) :calculate the energy level sacing ratio.
+2. (Boxcounting) : calculate the spectral fractal dimendion.
 
 ## Typical Hamiltonian
 1. (getGAA) :get the single particle Hamiltonian of the Generalized AA model(a quasiperiodic system with multifractal states.)
