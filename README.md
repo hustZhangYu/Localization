@@ -10,14 +10,14 @@ These functions can be divided into five parts: \
 ## Statistics of the eigenstates.
 1.（Ipr）： calculate the Ipr for a single eigenstate.\
 2.（Localizationlength）： given an eigenstate and calculate the localization length.\
-3. (scalingexponent) : get the scalingexponent by the system size and IPR data.  
+3. (scalingexponent) : get the scaling exponent by the system size and IPR data.  
 
 ## Statistics of the eigenvalues
 1. (Energyratio) :calculate the energy level sacing ratio.\
 2. (Boxcounting) : calculate the spectral fractal dimendion.
 
 ## Statistics of the dynamics
-1. (x2) : claculate <x^2>
+1. (x2) : claculate $<x^2>$
 
 ## Typical Hamiltonians
 1. (getGAA) :get the single particle Hamiltonian of the Generalized AA model(a quasiperiodic system with multifractal states.)
